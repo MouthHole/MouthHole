@@ -14,4 +14,4 @@
 
  <p align="center">Hi, Im liv. I dont give a shit if you sit or talk to me like at all like fr. Im mostly with <a href="https://github.com/no-joki">Rors</a> or <a href="https://github.com/windch1mes">Chimes</a>!
 
-this is a wip
+ <p align="center">Art done by me!!
