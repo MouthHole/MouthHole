@@ -7,7 +7,7 @@
   <p align="center">
 <p align="center">♬ <a href="https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby?si=50d51962af3c4437">Their song</a> ♬
 <p align="center">
-<a title="TITLE OF IMAGE" href=LINK TO SOMETHING><img src="https://file.garden/Zuz0EFGrRwegVsDI/Untitled618_20240920010554.png" width="150" height="150" border="10"/ ></a>
+<a title="TITLE OF IMAGE" href=LINK TO SOMETHING><img src="https://file.garden/Zuz0EFGrRwegVsDI/Untitled618_20240920010554.png" width="300" height="300" border="10"/ ></a>
 
 
   <p align="center">༻━━━━✦❘༻༺❘✦━━━━༺
@@ -18,5 +18,3 @@
   
 <p align="center">༻━━━━✦❘༻༺❘✦━━━━༺
 
-  <p align="center">
-<a title="TITLE OF IMAGE" href=LINK TO SOMETHING><img src="https://file.garden/Zuz0EFGrRwegVsDI/sdfghjjj.png" width="350" height="300" border="10"/ ></a>
